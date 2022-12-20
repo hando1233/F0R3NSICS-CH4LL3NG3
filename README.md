@@ -3,7 +3,7 @@
 ## Memory Analysis
 
 ### challenge 01
-***resource: find-me.bin***
+>***resource: find-me.bin***
 
 **Requirement**
 * Evaluate the information that the investigator can obtain in the file dump of RAM memory. Try getting the password info from there.
@@ -13,7 +13,7 @@
 
 
 ### challenge 02
-***resource: rick&morty.vmem***
+>***resource: rick&morty.vmem***
 
 **Requirement**
 * Find user account name and password in memory
