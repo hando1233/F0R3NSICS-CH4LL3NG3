@@ -5,6 +5,8 @@
 ### challenge 01
 >***resource: find-me.bin***
 
+link [challenge 01](https://drive.google.com/drive/folders/1VGD5iuGDlz2X_Mr4Wtkg04eye6UH_D9N?usp=sharing)
+
 **Requirement**
 * Evaluate the information that the investigator can obtain in the file dump of RAM memory. Try getting the password info from there.
 * What information can be obtained from looking at the history of the cmd process? 
@@ -14,6 +16,8 @@
 
 ### challenge 02
 >***resource: rick&morty.vmem***
+
+link [challenge 02](https://drive.google.com/drive/folders/1LOH7L5FynPmbf644YlIaNvSUVKwDR7-J?usp=sharing)
 
 **Requirement**
 * Find user account name and password in memory
